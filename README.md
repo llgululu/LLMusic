@@ -6,6 +6,7 @@
 
 这个小程序是通过网易云接口来获得音乐，只需要在后端数据库里面存vip账号的登录cookie，小程序端无需登录，即可实现多人使用，简单来说，就是一个账号多人使用且每个使用的人不需要账号登录🥰。
 
+后端代码在这：👉（还未上传，哈哈）👈
 
 #### 软件架构
 
@@ -16,11 +17,11 @@
 
 #### 软件截图
 
-![{8FD1A552-68AD-49ff-9E75-E8AF50FD3E80}](https://github.com/lhnzfq165/LLMusic/assets/96375028/fcd32ce8-1fa2-4913-9c02-bc79c3233033)
+<img src="https://gitee.com/Gulu_Lv/llmusic-uniapp-we/raw/master/%E5%B1%95%E7%A4%BA%E5%9B%BE/%7BA759D580-2E3B-4834-B25C-3C832C63967E%7D.png"  height="450" alt="首页"/>
 
-![{2F652C79-CE6A-4a4b-A04D-15DDD2F26A20}](https://github.com/lhnzfq165/LLMusic/assets/96375028/8af59f89-0332-4054-9c17-27083011cb5c)
+<img src="https://gitee.com/Gulu_Lv/llmusic-uniapp-we/raw/master/%E5%B1%95%E7%A4%BA%E5%9B%BE/%7B2F652C79-CE6A-4a4b-A04D-15DDD2F26A20%7D.png"  height="450" alt="首页"/>
 
-![{A759D580-2E3B-4834-B25C-3C832C63967E}](https://github.com/lhnzfq165/LLMusic/assets/96375028/3b393c3e-cc53-46a3-9c03-77156827b8f8)
+<img src="https://gitee.com/Gulu_Lv/llmusic-uniapp-we/raw/master/%E5%B1%95%E7%A4%BA%E5%9B%BE/%7B8FD1A552-68AD-49ff-9E75-E8AF50FD3E80%7D.png"  height="450" alt="首页"/>
 
 
 #### 安装教程
@@ -55,10 +56,10 @@
 
 ###### 去水印小程序
 
-![去水印小程序](https://github.com/lhnzfq165/LLMusic/assets/96375028/5069faa7-114b-49f7-a1aa-7826af4e0571)
+<img src="https://gitee.com/Gulu_Lv/universal-watermark-removal/raw/master/gh_2a0a366062cd_430.jpg" width="200" height="200" alt="小程序码"/>
 
  
 ###### 壁纸小程序
 
-![取壁纸](https://github.com/lhnzfq165/LLMusic/assets/96375028/8ff5996e-c905-4d0f-9dcb-02e31c0081c0)
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/%E5%8F%96%E5%A3%81%E7%BA%B8.jpg" width="200" height="200" alt="小程序码"/>
 
