@@ -1,0 +1,22 @@
+{
+  "navigationBarTitleText": "LL-Music",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-line-progress": "/uni_modules/uview-ui/components/u-line-progress/u-line-progress",
+    "home": "/pages/index/index",
+    "recommend": "/pages/recommend/recommend",
+    "playlist-piazza": "/pages/playlist/playlistPiazza",
+    "playlist": "/pages/playlist/playlist",
+    "ranking-list": "/pages/rankingList/rankingList",
+    "search": "/pages/search/search",
+    "search-playlist": "/pages/search/searchPlaylist",
+    "search-song": "/pages/search/searchSong",
+    "instruction": "/pages/instruction/instruction"
+  }
+}

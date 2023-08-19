@@ -1,0 +1,8 @@
+.index{padding:0 20rpx 20rpx 20rpx}.index-swiper,
+.index-search,
+.index-grid-tab,
+.index-recommended-song-list,
+.index-recommended-songs,
+.index-recommended-songs-scorll,
+.index-recommended-song-scroll-list{padding-top:20rpx}.grid-text{font-size:14px}.index-recommended-song-list-title,
+.index-recommended-songs-title{display:flex;padding-bottom:10rpx}.index-recommended-songs-contents{display:flex;flex-direction:column}.index-recommended-one-song-info{display:flex}.index-recommended-songs-name-artists{padding-left:20rpx;padding-right:40rpx;padding-top:20rpx}.index-recommended-song-cover{position:relative}.index-recommended-songs-play-button{float:right;display:flex}.index-recommended-one-song{padding-right:40rpx;padding-bottom:10rpx;display:flex;justify-content:space-between}.song-list-playcount{position:absolute;right:10rpx;top:10rpx}.song-list-playButton{position:absolute;right:10rpx;bottom:10rpx}.index-recommended-song-scroll-list-content{padding-left:10rpx;padding-right:10rpx}

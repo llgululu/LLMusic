@@ -1,0 +1,86 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+
+		{
+			"path": "pages/player",
+			"style": {
+				"navigationBarTitleText": "LL-Music",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/recommend/recommend",
+			"style": {
+				"navigationBarTitleText": "推荐",
+				"navigationStyle": "custom"
+
+			}
+		},
+		{
+			"path": "pages/playlist/playlistPiazza",
+			"style": {
+				"navigationBarTitleText": "歌单广场",
+				"navigationStyle": "custom"
+		
+			}
+		},
+		{
+			"path": "pages/playlist/playlist",
+			"style": {
+				"navigationBarTitleText": "歌单",
+				"navigationStyle": "custom"
+		
+			}
+		},
+		{
+			"path": "pages/rankingList/rankingList",
+			"style": {
+				"navigationBarTitleText": "排行榜",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/searchSong",
+			"style": {
+				"navigationBarTitleText": "搜索单曲",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/searchPlaylist",
+			"style": {
+				"navigationBarTitleText": "搜索歌单",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/instruction/instruction",
+			"style": {
+				"navigationBarTitleText": "介绍和说明",
+				"navigationStyle": "custom"
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

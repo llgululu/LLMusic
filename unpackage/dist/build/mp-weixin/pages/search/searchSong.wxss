@@ -1,0 +1,1 @@
+.body{padding:0 20rpx 20rpx 20rpx}.one-song{border-bottom:1rpx solid #c8c9cc;display:flex;justify-content:space-between;padding-top:16rpx;padding-bottom:16rpx}.song-info{display:flex;justify-content:flex-start}.song-name-singer{padding-top:12rpx;padding-left:16rpx}.song-button-group{display:flex}.play-button{display:flex;padding-right:20rpx}

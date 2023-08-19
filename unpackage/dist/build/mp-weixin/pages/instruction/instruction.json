@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "介绍和说明",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text"
+  }
+}

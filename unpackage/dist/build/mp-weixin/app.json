@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/player",
+    "pages/index/index",
+    "pages/recommend/recommend",
+    "pages/playlist/playlistPiazza",
+    "pages/playlist/playlist",
+    "pages/rankingList/rankingList",
+    "pages/search/search",
+    "pages/search/searchSong",
+    "pages/search/searchPlaylist",
+    "pages/instruction/instruction"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
