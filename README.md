@@ -8,7 +8,7 @@
 
 图片如展示不全，请见我gitee ：https://gitee.com/Gulu_Lv/llmusic-uniapp-we
 
-后端代码在这：👉（还未上传，哈哈）👈
+后端代码在这：👉（[后端](https://github.com/lhnzfq165/llMusicPlayer)）👈
 
 #### 软件架构
 
